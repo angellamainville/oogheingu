@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahjeelokoh.js-dos.com/sitemap.xml
